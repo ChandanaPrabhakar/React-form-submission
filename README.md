@@ -1,3 +1,6 @@
+
+<img width="405" alt="Screenshot 2024-08-28 at 17 14 49" src="https://github.com/user-attachments/assets/5c264a47-7b84-4b4b-bf3b-097242b5fde5">
+
 # React Form Submission
 
 This project is a simple React-based form submission application that allows users to fill out and submit a form with various input types. The form includes fields for entering names, email, contact information, gender selection, file upload, URL input, dropdown selection, and a textarea for additional information.
